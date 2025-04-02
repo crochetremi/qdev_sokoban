@@ -10,4 +10,29 @@ public class Labyrinthe {
      */
     boolean[][] murs;
 
+    /**
+     * Constante représentant un mur
+     */
+    public final static char MUR = "#";
+
+    /**
+     * Constante représentant une caisse
+     */
+    public final static char CAISSE = "$";
+
+    /**
+     * Constante représentant un personnage
+     */
+    public final static char PJ = "@";
+
+    /**
+     * Constante représentant un dépot
+     */
+    public final static char DEPOT = ".";
+
+    /**
+     * Constante représentant un espace vide
+     */
+    public final static char VIDE = " ";
+
 }
