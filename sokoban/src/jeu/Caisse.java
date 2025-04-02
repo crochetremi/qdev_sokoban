@@ -1,4 +1,7 @@
 package jeu;
 
-public class Caisse {
+/**
+ * Classe représentant les caisses qu'il est possible de pousser
+ */
+public class Caisse extends Element{
 }

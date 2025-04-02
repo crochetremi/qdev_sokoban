@@ -1,4 +1,7 @@
 package jeu;
 
-public class Perso {
+/**
+ * Classe représentant le gardien que le joueur peut déplacer
+ */
+public class Perso extends Element{
 }
