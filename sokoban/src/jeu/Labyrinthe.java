@@ -13,26 +13,26 @@ public class Labyrinthe {
     /**
      * Constante représentant un mur
      */
-    public final static char MUR = "#";
+    public final static char MUR = '#';
 
     /**
      * Constante représentant une caisse
      */
-    public final static char CAISSE = "$";
+    public final static char CAISSE = '$';
 
     /**
      * Constante représentant un personnage
      */
-    public final static char PJ = "@";
+    public final static char PJ = '@';
 
     /**
      * Constante représentant un dépot
      */
-    public final static char DEPOT = ".";
+    public final static char DEPOT = '.';
 
     /**
      * Constante représentant un espace vide
      */
-    public final static char VIDE = " ";
+    public final static char VIDE = ' ';
 
 }
