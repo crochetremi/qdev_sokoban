@@ -1,4 +1,4 @@
-.idea
-.iml
-.pdf
-.class
+*.idea
+*.iml
+*.pdf
+*.class
